@@ -18,7 +18,7 @@ export const Skill_data = [
       Image: "/js.png",
       width: 65,
       height: 65,
-      index: 3,
+      index: 3
     },
     {
       skill_name: "Tailwind Css",
@@ -74,7 +74,7 @@ export const Skill_data = [
       Image: "/stripe.webp",
       width: 80,
       height: 80,
-      index: 9,
+      index:9,
     },
     {
       skill_name: "Node js",
@@ -119,48 +119,49 @@ export const Skill_data = [
       Image: "/html.png",
       width: 80,
       height: 80,
-      index: 1,
+      index: 12,
     },
     {
       skill_name: "Css",
       Image: "/css.png",
       width: 80,
       height: 80,
-      index: 2,
+      index: 13,
     },
     {
       skill_name: "Java Script",
       Image: "/js.png",
       width: 65,
       height: 65,
+      index: 14,
     },
     {
       skill_name: "Tailwind Css",
       Image: "/tailwind.png",
       width: 80,
       height: 80,
-      index: 3,
+      index: 15,
     },
     {
       skill_name: "React",
       Image: "/react.png",
       width: 80,
       height: 80,
-      index: 4,
+      index: 16,
     },
     {
       skill_name: "Type Script",
       Image: "/ts.png",
       width: 80,
       height: 80,
-      index: 5,
+      index: 17,
     },
     {
       skill_name: "Next js 13",
       Image: "/next.png",
       width: 80,
       height: 80,
-      index: 6,
+      index: 18,
     },
   ];
   
@@ -170,20 +171,21 @@ export const Skill_data = [
       Image: "/node-js.png",
       width: 80,
       height: 80,
-      index: 1,
+      index: 19,
     },
     {
       skill_name: "Express js",
       Image: "/express.png",
       width: 80,
       height: 80,
-      index: 2,
+      index: 20,
     },
     {
       skill_name: "Mongo db",
       Image: "/mongodb.png",
       width: 40,
       height: 40,
+      index: 21,
     },
     /*
     {
@@ -225,7 +227,7 @@ export const Skill_data = [
       Image: "/ReactNative .png",
       width: 70,
       height: 70,
-      index: 1,
+      index: 22,
     }
     /*
     {

@@ -9,10 +9,10 @@ interface Props {
     src: string;
     width: number;
     height: number;
-    index: number;
+    index?: number;
 }
 
-const SkillDataProvider = ({ src, width, height, index } : Props) => {
+const SkillDataProvider = ({ src, width, height, index = 0} : Props) => {
     const {ref, inView} = useInView({
         triggerOnce: true
     })
