@@ -45,8 +45,6 @@ const NavBar = () => {
                         src={social.src}
                         alt={social.name}
                         key={social.name}
-                        href={social.href}
-                        target="_blank" rel="noopener noreferrer"
                         width={24}
                         height={24}
                         />        
