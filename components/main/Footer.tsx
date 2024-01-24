@@ -46,7 +46,7 @@ const Footer = () => {
             </div>
 
             <div className='mb-[20px] text-[15px] text-center'>
-                &copy; Marcus Butler 2024 Inc. All rights reserved
+                &copy; RomeDigital LLC 2024 Inc. All rights reserved
             </div>
         </div>
     </div>
