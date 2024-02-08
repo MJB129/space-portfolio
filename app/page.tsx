@@ -14,10 +14,7 @@ export default function Home() {
         <Skills />
         <Encryption />
         <div className='flex flex-col items-center gap-20'>
-        <h1 className='text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20'>
-            My Projects
-        </h1>
-        <ThreeDScreenshot screenshotUrl="/FreedomhacksSS.png" />
+        <Projects/>
         </div>
       </div>
     </main>
